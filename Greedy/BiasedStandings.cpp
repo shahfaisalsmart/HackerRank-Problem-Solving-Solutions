@@ -1,7 +1,8 @@
 // Author: Mohammad Faisal
 // Email: mohammd.faisal78612@gmail.com
 // Beginning with the name of Almighty God ALLAH
-//  
+// Link: https://www.spoj.com/problems/BAISED/
+// Spoj Greedy Algorithm
 #include<bits/stdc++.h>
 using namespace std;
 int main()
